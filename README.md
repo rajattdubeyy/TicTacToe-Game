@@ -154,11 +154,7 @@ This project demonstrates:
 
 ## 👩‍💻 Author
 
-**Shubhi Garg**
-
-GitHub: https://github.com/ShubhiGarg0026
-
-LinkedIn: https://www.linkedin.com/in/shubhi-garg-80297128b
+**Rajat Kumar Dubey**
 
 ---
 
